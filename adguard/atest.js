@@ -1,3 +1,3 @@
 var body = $response.body
-    .replace(/<head>/, '<head><link rel="stylesheet" href="https://raw.githubusercontent.com/FelixAce/adblock/main/css/javdb.css" type="text/css">');
+    .replace(/<head>/, '<head><link rel="stylesheet" href="https://wsx.felix188.top/adblock/css/javdb.css" type="text/css">');
 $done({ body });
